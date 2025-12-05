@@ -1,0 +1,22 @@
+# Ignore dataset
+data/
+data/*
+
+# Ignore model checkpoints (optional)
+*.h5
+*.pb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
